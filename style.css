@@ -3,7 +3,6 @@
     padding: 0;
 }
 
-
 .cabeçalho{
     background-color: rgba(173, 191, 155, 1);
     color: rgb(3, 65, 65);
@@ -18,9 +17,8 @@
 }
 
 .elementos{
-    display: flex-end;
-    margin: 32px 16px;
+    display:inline-block;
+    margin: 0 16px;
     font-size: 24px;
-    align-items: flex-end;
 }
 
