@@ -1,7 +1,7 @@
 .cabeçalho{
     background-color: rgba(173, 191, 155, 1);
     color: rgb(3, 65, 65);
-    display: ;
+    display:flex;
 }
 
 .imagem-logo{
