@@ -9,6 +9,7 @@
     color: rgb(3, 65, 65);
     display:flex;
     justify-content: space-around;
+    padding: 16px 0;
 }
 
 .imagem-logo{
