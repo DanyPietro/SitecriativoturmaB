@@ -16,6 +16,10 @@
     width: 15%;
 }
 
+.cabeçalho-titulo{
+    color: aquamarine;
+}
+
 .elementos{
     display:inline-block;
     margin: 0 16px;
