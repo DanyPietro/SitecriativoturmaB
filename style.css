@@ -13,7 +13,7 @@
     }
 
 .imagem-logo{
-    width: 20%;
+    width: 25%;
     padding: 0 15px;
 }
 .cabeçalho-titulo{
@@ -25,6 +25,6 @@
 .elementos{
     display:inline-block;
     margin: 0 16px;
-    font-size: 12px;
+    font-size: 24px;
 }
 
