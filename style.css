@@ -7,7 +7,7 @@
     background-color: rgba(173, 191, 155, 1);
     color: rgb(3, 65, 65);
     display:flex;
-    justify-content: space-around;
+    justify-content:space-between
     padding: 16px 0;
     align-items: center;
     }
@@ -15,7 +15,7 @@
 .imagem-logo{
     width: 15%;
 }
-h1{
+.cabeçalho-titulo{
     color: blue;
 }
 
