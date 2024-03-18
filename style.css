@@ -35,7 +35,7 @@
 }
 
 .empresa{
-    background: linear-gradient (#A1CD9D, #F6FFF5);
+    background-image: linear-gradient (#A1CD9D, #F6FFF5);
     display: flex;
     justify-content: center;
     align-items: center;
