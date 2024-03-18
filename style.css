@@ -35,12 +35,8 @@
 }
 
 .empresa{
-    background-image: linear-gradient(#A1CD9D, #F6FFF5);
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding: 24px 0;
-}
+    background-image: linear-gradient(#88AB8E, #F6FFF5);
+   }
 .sobre-nossa-empresa{
     padding: 24px 0;
 }
