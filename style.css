@@ -34,6 +34,7 @@
     width: 20%;
 }
 
-.Sobre a empresa{
+.Sobre-a-empresa{
     background: linear-gradient (#A1CD9D, #F6FFF5);
+    display: flex;
 }
