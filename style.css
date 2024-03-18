@@ -36,7 +36,12 @@
 
 .empresa{
     background-image: linear-gradient(#88AB8E, #ccf5d7);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
    }
+   
 .sobre-nossa-empresa{
     padding: 24px 0;
 }
