@@ -3,6 +3,11 @@
     padding: 0;
 }
 
+body{
+    font-family: sans-serif;
+}
+
+
 .cabeçalho{
     background-color: #88AB8E;
     color: black;
