@@ -61,5 +61,9 @@ body{
 .projetos-div{
     text-align: center;
     padding: 30px 0;
+}
 
+.titulo-projetos{
+    text-align: center;
+    padding: 25px 0;
 }
