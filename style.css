@@ -76,3 +76,7 @@ body{
     display: grid;
     grid-template-columns: 25% 25% 25% 25%;
 }
+
+.projetos{
+    background-color: aquamarine;
+}
