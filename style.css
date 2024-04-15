@@ -124,10 +124,12 @@ body{
 }
  .telefone{
     background-color: white;
+    align-items: center;
     }
 
 .icone-rodape{
     display: flex;
     align-items: center;
     font-size: 20px;
-    }
+    font-family: Brush Script MT;
+}
