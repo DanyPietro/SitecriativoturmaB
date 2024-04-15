@@ -125,3 +125,8 @@ body{
  .telefone{
     background-color: white;
     }
+
+.icone-rodape{
+    display: flex;
+    justify-content: center;
+}
