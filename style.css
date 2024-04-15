@@ -127,6 +127,9 @@ body{
     }
 
 .icone-rodape{
+    color: white;
     display: flex;
-    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    font-family: Brush Script MT;
 }
