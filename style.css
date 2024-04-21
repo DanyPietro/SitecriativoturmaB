@@ -120,10 +120,11 @@ body{
 }
 
 .whatsapp-imagem{
-    width: 20px;
+    width: 25px;
 }
 
 .icone-rodape{
+    display: flex;
     align-items: center;
     font-size: 20px;
     font-family: Brush Script MT;
